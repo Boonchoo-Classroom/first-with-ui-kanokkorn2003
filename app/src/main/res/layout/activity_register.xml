@@ -11,7 +11,7 @@
         android:id="@+id/registerHeaderText"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="104dp"
+        android:layout_marginTop="105dp"
         android:text="Register Page"
         android:textSize="32sp"
         app:layout_constraintEnd_toEndOf="parent"
